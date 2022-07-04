@@ -117,6 +117,18 @@ body{
     cursor: pointer;
 }
 
+/* footer */
+.footer{
+    text-align: center;
+    margin-bottom: 5px;
+    color: #71768b;
+    font-size: 12px;
+}
+.footer span{
+    color: #3a7961;
+
+}
+
 
 @media screen and (max-width: 580px){
     .main{
